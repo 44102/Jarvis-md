@@ -74,6 +74,7 @@ jarvis md is Multi Device whatsapp bot based on X-Asena
 #### THANKS TO
 - [INRL ❤️](https://github.com/inrl-official) <br>
 - [X-Electra](https://github.com/inrl-official) for [X-Asena](https://github.com/X-Electra/X-Asena)
+- [Patrick Sir💜](https://wa.me+918943257567text?=you+are+great-sir+🤍)
 
 #### JARVIS SUPPORT 
 
